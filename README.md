@@ -4,12 +4,12 @@ This is an Web implementation for school system application, it based on my java
 The site is a grades system of home exercises and laboratories convenient and user friendly to Both from the student's side and from the teacher's side. Also in the system there is a director that
 Responsible for managing all system users, opening new classes and courses.
 
-Entities in the system:
+**Entities in the system:**
 * Teacher
 * Student
 * School Director
 
-Web technologies:
+**Web technologies:**
 * MS SQL Server 2013.
 * ASP.NET
 * C#
@@ -19,7 +19,7 @@ Web technologies:
 * ANGULARJS FRAMEWORK
 * JQUERY FRAMWORK
 
-System capabilities:
+**System capabilities:**
 * Identification and login of users using username and password.
 * Systematic exit of a user from the system - Logout.
 * Uploading, re-editing, and deleting Homeworks by authorized users.
@@ -28,5 +28,5 @@ System capabilities:
 * Displays the logged-in user data at the top of the screen.
 * School Director Add / Delete Users, Add / Delete Classes, Add / Delete Courses, classifying a user to a class, assigning a class to a course.
 
-
+#### By clicking the photo you can watch a youtube video about the wesite. ####
 [![Everything Is AWESOME](https://user-images.githubusercontent.com/31032862/56964902-bdfeba00-6b64-11e9-9375-d4d5d5c85777.png)](https://www.youtube.com/watch?v=GWYR993LUTU&t=2s "Assignment Centre Project")
