@@ -34,7 +34,7 @@ Responsible for managing all system users, opening new classes and courses.
 ## Website photos: ##
 
 ### Login Screen: ###
-<p align="center"> 
+<p align="center" style="width:50%"> 
 <img src="https://user-images.githubusercontent.com/31032862/57078292-a9522b80-6cf6-11e9-98c3-4d0407c1c712.jpg">
 </p>
 
