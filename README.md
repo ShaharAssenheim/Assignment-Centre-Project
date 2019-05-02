@@ -31,39 +31,39 @@ Responsible for managing all system users, opening new classes and courses.
 #### By clicking the photo you can watch a youtube video about the wesite. ####
 [![Everything Is AWESOME](https://user-images.githubusercontent.com/31032862/56964902-bdfeba00-6b64-11e9-9375-d4d5d5c85777.png)](https://www.youtube.com/watch?v=GWYR993LUTU&t=2s "Assignment Centre Project")
 
-### Website photos: ###
+## Website photos: ##
 
-## Login Screen: ##
+### Login Screen: ###
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/31032862/57078292-a9522b80-6cf6-11e9-98c3-4d0407c1c712.jpg">
 </p>
 
-## Student Menu Screen: ##
+### Student Menu Screen: ###
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/31032862/57078412-edddc700-6cf6-11e9-8b5e-f24eb6bf8590.jpg">
 </p>
 
-## Student Homework Screen: ##
+### Student Homework Screen: ###
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/31032862/57078534-1ebdfc00-6cf7-11e9-9870-5244c1e96feb.png">
 </p>
 
-## Teacher Upload New Homework Screen: ##
+### Teacher Upload New Homework Screen: ###
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/31032862/57078623-401ee800-6cf7-11e9-80c0-55061d0b37ac.png">
 </p>
 
-## Submission List Screen: ##
+### Submission List Screen: ###
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/31032862/57078668-5af15c80-6cf7-11e9-8cac-a77d022653a2.png">
 </p>
 
-## Manager Menu Screen: ##
+### Manager Menu Screen: ###
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/31032862/57078728-7ceadf00-6cf7-11e9-92f4-7b6fd9be5422.png">
 </p>
 
-## Edit User Details Screen: ##
+### Edit User Details Screen: ###
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/31032862/57078790-99871700-6cf7-11e9-9746-658aa401f4b6.png">
 </p>
