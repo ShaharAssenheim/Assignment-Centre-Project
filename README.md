@@ -34,38 +34,38 @@ Responsible for managing all system users, opening new classes and courses.
 ## Website photos: ##
 
 ### Login Screen: ###
-<p align="center" style="width:50%"> 
-<img src="https://user-images.githubusercontent.com/31032862/57078292-a9522b80-6cf6-11e9-98c3-4d0407c1c712.jpg">
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/31032862/57078292-a9522b80-6cf6-11e9-98c3-4d0407c1c712.jpg" width="80%">
 </p>
 
 ### Student Menu Screen: ###
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/57078412-edddc700-6cf6-11e9-8b5e-f24eb6bf8590.jpg">
+<img src="https://user-images.githubusercontent.com/31032862/57078412-edddc700-6cf6-11e9-8b5e-f24eb6bf8590.jpg" width="80%">
 </p>
 
 ### Student Homework Screen: ###
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/57078534-1ebdfc00-6cf7-11e9-9870-5244c1e96feb.png">
+<img src="https://user-images.githubusercontent.com/31032862/57078534-1ebdfc00-6cf7-11e9-9870-5244c1e96feb.png" width="80%">
 </p>
 
 ### Teacher Upload New Homework Screen: ###
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/57078623-401ee800-6cf7-11e9-80c0-55061d0b37ac.png">
+<img src="https://user-images.githubusercontent.com/31032862/57078623-401ee800-6cf7-11e9-80c0-55061d0b37ac.png" width="80%">
 </p>
 
 ### Submission List Screen: ###
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/57078668-5af15c80-6cf7-11e9-8cac-a77d022653a2.png">
+<img src="https://user-images.githubusercontent.com/31032862/57078668-5af15c80-6cf7-11e9-8cac-a77d022653a2.png" width="80%">
 </p>
 
 ### Manager Menu Screen: ###
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/57078728-7ceadf00-6cf7-11e9-92f4-7b6fd9be5422.png">
+<img src="https://user-images.githubusercontent.com/31032862/57078728-7ceadf00-6cf7-11e9-92f4-7b6fd9be5422.png" width="80%">
 </p>
 
 ### Edit User Details Screen: ###
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/57078790-99871700-6cf7-11e9-9746-658aa401f4b6.png">
+<img src="https://user-images.githubusercontent.com/31032862/57078790-99871700-6cf7-11e9-9746-658aa401f4b6.png" width="80%">
 </p>
 
 
