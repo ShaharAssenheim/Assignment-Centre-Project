@@ -30,3 +30,9 @@ Responsible for managing all system users, opening new classes and courses.
 
 #### By clicking the photo you can watch a youtube video about the wesite. ####
 [![Everything Is AWESOME](https://user-images.githubusercontent.com/31032862/56964902-bdfeba00-6b64-11e9-9375-d4d5d5c85777.png)](https://www.youtube.com/watch?v=GWYR993LUTU&t=2s "Assignment Centre Project")
+
+Website photos:
+
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/31032862/57078292-a9522b80-6cf6-11e9-98c3-4d0407c1c712.jpg">
+</p>
